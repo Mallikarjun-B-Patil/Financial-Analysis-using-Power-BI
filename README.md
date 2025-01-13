@@ -1,4 +1,4 @@
-"# Financial-Analysis-using-Power-BI"  
+# Financial-Analysis-using-Power-BI 
 
 This repository contains an in-depth analysis of financial datasets performed using Power BI. The project demonstrates the power of interactive data visualization and insightful reporting, providing actionable insights into financial performance, trends, and key metrics.
 
