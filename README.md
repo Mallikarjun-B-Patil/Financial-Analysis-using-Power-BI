@@ -27,3 +27,11 @@ This project focuses on:
 - **Power BI:** For data modeling, visualization, and report generation.  
 - **Excel Files:** As the primary data sources.  
 - **DAX (Data Analysis Expressions):** For creating calculated columns, measures, and KPIs.  
+
+---
+
+## 🚀 Getting Started  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Mallikarjun-B-Patil/Financial-Analysis-using-Power-BI.git
